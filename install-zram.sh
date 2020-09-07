@@ -1,3 +1,5 @@
+sudo apt update && sudo apt install -y make
+
 sudo make
 sudo make install
 
